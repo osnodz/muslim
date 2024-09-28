@@ -4,6 +4,8 @@
 
 **Instalasi**
 
-`git clone https://github.com/osnodz/muslim && cd muslim && pip install -r module.txt && python muslim.py`
+```bash
+git clone https://github.com/osnodz/muslim && cd muslim && pip install -r module.txt && python muslim.py
+```
 
 > Author & Source: github.com/karjok/sholat
